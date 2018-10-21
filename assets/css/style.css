@@ -17,6 +17,14 @@ body {
     margin: 0px;
 }
 
+.col-lg-12 {
+  padding: 0px;
+}
+
+.row {
+  margin: 0px;
+}
+
 .navbar {
     text-align: center;
     padding-right: 20px;
@@ -50,8 +58,16 @@ body {
 }
 
 .userMessage {
+  text-align: left;
+  color: white;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.sectionTitle {
   font-size: 24px;
   font-weight:lighter;
   font-style: oblique;
   color: white;
+  width: 100%;
 }
