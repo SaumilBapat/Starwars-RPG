@@ -127,10 +127,10 @@ function resetGame() {
         characters[char].health = 120;
         characters[char].status = 'Start';
     }
-    var yourCharacter = '';
-    var yourAttack = 10;
-    var defender = '';
-    var gameStatus = 'Start';
+    yourCharacter = '';
+    yourAttack = 10;
+    defender = '';
+    gameStatus = 'Start';
     $("#Messages").empty();
     renderCharacters();
 }
