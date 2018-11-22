@@ -1,6 +1,6 @@
 ***STARWARS RPG***
 
-PLAY: https://saumilbapat.github.io/unit-4-game/
+PLAY: https://saumilbapat.github.io/Starwars-RPG/
 
 > Tips
 
